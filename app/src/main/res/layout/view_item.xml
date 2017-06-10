@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="200dip"
+    android:layout_height="match_parent"
+    android:background="@color/pink">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:text="@string/view_itemtext"/>
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/scan"
+        />
+
+    <CheckBox
+        android:id="@+id/gridCB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gridCB"/>
+
+    <CheckBox
+        android:id="@+id/listCB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/listCB"
+        />
+    <Button
+        android:background="#00000000"
+        android:textSize="18sp"
+        android:id="@+id/grid"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="70dp"
+        android:text="@string/setitem"
+
+        />
+
+    <Button
+        android:id="@+id/more"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="70dp"
+        android:background="#00000000"
+        android:text="@string/more"
+        />
+
+
+</LinearLayout>

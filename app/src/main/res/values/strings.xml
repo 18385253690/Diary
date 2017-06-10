@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diary</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">账号</string>
+    <string name="mima">密码</string>
+    <string name="logon">登录</string>
+    <string name="rememberpassword">记住密码</string>
+    <string name="autologon">自动登录</string>
+    <string name="mi">123</string>
+    <string name="liu">liu</string>
+
+    <!--welcome  -->
+    <string name="delete">删除</string>
+    <string name="change">更新</string>
+    <string name="takephoto">拍照</string>
+    <string name="autocam">截屏</string>
+    <string name="finish">返回</string>
+    <string name="scanphoto">图片</string>
+    <string name="xia">next</string>
+    <string name="shang">last</string>
+    <string name="save">保存</string>
+
+    <!-- dialog -->
+    <string name="dialogtitle">删除该天记事</string>
+    <string name="dialogtext">请问您是否要删除记事？</string>
+
+    <!-- scanphoto -->
+    <string name="scanphotodialogtitile">图片查看器</string>
+    <string name="exit">exit</string>
+    <string name="desc">ImageView描述方式</string>
+
+    <!--firstpage  -->
+    <string name="diary">笔记</string>
+    <string name="set">设置</string>
+    <string name="writedrary">write</string>
+    <string name="scandiary">刷新</string>
+    <string name="deletediary">删除</string>
+    <string name="firstdialogtitle">删除所有记事</string>
+    <string name="firstfinish">退出</string>
+
+
+    <!-- view_item -->
+    <string name="view_itemtext">常用功能</string>
+    <string name="scan">查看方式</string>
+    <string name="gridCB">宫格显示</string>
+    <string name="listCB">列表显示</string>
+    <string name="setitem">          设置</string>
+    <string name="more">更多选项</string>
+
+    <!-- item_dialog -->
+    <string name="editordialog">编辑该天记事</string>
+    <string name="deleteitem">删除该天记事</string>
+    <string name="itemdialogtitle">item事件处理</string>
+
+
+    <!--device_name  -->
+    <string name="listtime">日期</string>
+    <string name="chengxu">程序加密</string>
+
+    <!-- set -->
+    <string name="setpassword">设置密码</string>
+    <string name="setsort">排序方式</string>
+    <string name="version">V1.1.1_20150505</string>
+    <string name="setupdata">检查更新</string>
+    <string name="help">帮助和反馈</string>
+
+    <!-- login -->
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="cancel">退出</string>
+    <string name="c">c</string>
+    <string name="clear">clear</string>
+    <string name="helplogin">帮助</string>
+
+    <string name="helpcontent">由于时间比较紧，本app还有很多功能未添加，只是实现了基本功能。也没有针对不同手机的分辨率自动适应，语言要仅有中文，不过这些比较简单，后续可添加。有兴趣的可以体验一下，谢谢！</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="200dip"
+    android:layout_height="200dip"
+    android:background="@drawable/listview4">
+    <Button
+        android:layout_marginTop="40dip"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/deleteitem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/deleteitem"/>
+    <Button
+        android:layout_marginTop="15dip"
+        android:id="@+id/editordialog"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/editordialog"/>
+</LinearLayout>
